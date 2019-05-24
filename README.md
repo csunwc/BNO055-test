@@ -7,4 +7,4 @@ https://github.com/adafruit/Adafruit_BNO055
 To use:
 * open serial console at 115200 baud
 * rotate BNO055 by 90 deg on each axis until sys=3 (system ready)
-* compass reading in degrees will show up, 0= magnetic north
+* compass reading in 0-359.99 degrees will show up, 0= magnetic north
